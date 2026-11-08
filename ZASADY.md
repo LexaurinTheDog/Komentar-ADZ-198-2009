@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-obecna-diskriminace-vyjimky.md](01-obecna-diskriminace-vyjimky.md), [02-pravni-prostredky-prechodne.md](02-pravni-prostredky-prechodne.md) a [03-novely-ucinnost.md](03-novely-ucinnost.md) a úvodní přehled v [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnou citací** z kapitol, s uvedením souboru a paragrafu. Repozitář neobsahuje místní judikaturní karty k antidiskriminačnímu zákonu; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a výkladu podaného v kapitolách — nikoli z judikatorních tezí. Tam, kde by u zavedeného předpisu stála judikatorní citace, je namístě poctivě uvést, že opora z místních zdrojů chybí a bude ji třeba doplnit.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-obecna-diskriminace-vyjimky.md](01-obecna-diskriminace-vyjimky.md), [02-pravni-prostredky-prechodne.md](02-pravni-prostredky-prechodne.md) a [03-novely-ucinnost.md](03-novely-ucinnost.md) a úvodní přehled v [00-uvod.md](00-uvod.md). Každá zásada je doložena **doslovnou citací** z kapitol, s uvedením souboru a paragrafu. Repozitář obsahuje dvě místní judikaturní karty k antidiskriminačnímu zákonu ([NS 21 Cdo 5948/2017](judikatura/NS-21-Cdo-5948-2017.md) a [NS 21 Cdo 3858/2020](judikatura/NS-21-Cdo-3858-2020.md)), obě jen s kurátorskou právní větou; týkají se pravomoci soudu a zakotvení prostředků ochrany v ADZ a jsou proto připojeny k zásadě 9. Ostatní zásady jsou dovozeny z textu zákona, jeho systematiky a výkladu podaného v kapitolách — nikoli z judikatorních tezí; u nich opora z místní judikatury chybí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -203,7 +203,7 @@ Praktickým důsledkem zásady je, že zaměstnavatel provozující nebo financu
 
 ## 9. Účinná soudní ochrana a odstupňovanost prostředků nápravy
 
-**Zakotvení:** § 10, § 13, § 14 (§ 133a o. s. ř.)
+**Zakotvení:** § 10, § 13, § 14 (§ 133a o. s. ř.); místní karty NS 21 Cdo 5948/2017 a NS 21 Cdo 3858/2020
 
 Hmotněprávní definice jsou zajištěny soudně vymahatelnými nároky. § 10 odst. 1 zní ([02](02-pravni-prostredky-prechodne.md), § 10):
 
@@ -220,6 +220,16 @@ Peněžitá náhrada nemajetkové újmy je koncipována subsidiárně ([02](02-p
 Komentář k § 14 však připomíná, že přesun nezbavuje žalobce povinnosti tvrzení ([03](03-novely-ucinnost.md), § 14):
 
 > „Přesun neznamená, že žalobce nemusí nic prokazovat: musí tvrdit a doložit skutečnosti, z nichž lze diskriminaci dovodit; teprve poté nese důkazní břemeno žalovaný.“
+
+Soudní ochrana podle § 10 není omezena na soukromoprávní vztahy. Místní karta [NS 21 Cdo 5948/2017](judikatura/NS-21-Cdo-5948-2017.md) (citovaná v [02](02-pravni-prostredky-prechodne.md), § 10, a v [01](01-obecna-diskriminace-vyjimky.md), § 1) zní:
+
+> „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu“
+
+Pro zaměstnance místní karta [NS 21 Cdo 3858/2020](judikatura/NS-21-Cdo-3858-2020.md) (citovaná v [02](02-pravni-prostredky-prechodne.md), § 10) uvádí:
+
+> „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon“
+
+Dosah obou karet je omezený: zachycují jen právní větu bez skutkového stavu, první se výslovně týká vojáků z povolání a nároku na náhradu škody (majetkové újmy) se nedotýká, druhá zaměstnance; z ní nelze bez plného textu dovodit, zda chrání i proti nerovnosti, která nesouvisí s chráněným důvodem. Podrobně viz odstavce připojené ke kartám v kapitole 2 u § 10.
 
 Mimosoudní institucionální ochrana nemá rozhodovací povahu ([03](03-novely-ucinnost.md), § 13):
 

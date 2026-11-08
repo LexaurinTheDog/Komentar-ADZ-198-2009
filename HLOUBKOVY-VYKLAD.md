@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **4 soubory kapitol** (úvod a tři věcné kapitoly), **17 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 14 a § 17 až § 19), **32 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **10 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **4 soubory kapitol** (úvod a tři věcné kapitoly), **17 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 14 a § 17 až § 19), **32 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **10 zásad** v [ZASADY.md](ZASADY.md) a **2 místní karty rozhodnutí** ve složce [judikatura/](judikatura/README.md) (NS 21 Cdo 5948/2017 u § 1 a § 10; NS 21 Cdo 3858/2020 u § 10). Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -177,6 +177,7 @@ Procesní, rozhodovací a kontrolní uzly: [§ 10 — soudní ochrana](02-pravni
 
 Místně zachycené procesní body:
 - [§ 10 — výklad](02-pravni-prostredky-prechodne.md): „Upravuje soukromoprávní (civilní) ochranu před diskriminací uplatňovanou žalobou u soudu; nezakládá správní ani přestupkovou odpovědnost a sám o sobě neurčuje orgán, který by o diskriminaci rozhodoval jinak než soud.“
+- [§ 10 — místní karta NS 21 Cdo 5948/2017](judikatura/NS-21-Cdo-5948-2017.md) (*Judikatura*): § 10 odst. 1 zakládá pravomoc soudu i ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, jde-li o jiný nárok než náhradu škody (majetkové újmy).
 - [§ 14 — místní znění § 133a OSŘ](03-novely-ucinnost.md): „Pokud žalobce uvede před soudem skutečnosti, ze kterých lze dovodit, že ze strany žalovaného došlo k přímé nebo nepřímé diskriminaci“ a dále „je žalovaný povinen dokázat, že nedošlo k porušení zásady rovného zacházení.“
 - [§ 11 odst. 1 — místní znění](02-pravni-prostredky-prechodne.md): „poskytovat informace o možnostech právní pomoci a součinnost při sepsání nebo doplnění návrhů a podání osobám domáhajícím se ochrany před diskriminací.“
 - [§ 11 — vztah k zastoupení](02-pravni-prostredky-prechodne.md): „Podmínky § 26 odst. 3 OSŘ jsou užší než podmínky § 11 odst. 1 ADZ (vyžadují údaj ve stanovách); okruh osob oprávněných k součinnosti podle ADZ a k zastoupení podle OSŘ se proto nemusí krýt.“
@@ -184,7 +185,7 @@ Místně zachycené procesní body:
 - [§ 10 — promlčení](02-pravni-prostredky-prechodne.md): „Promlčení nároků ADZ výslovně neupravuje; použije se obecná úprava OZ (obecná promlčecí lhůta tří let podle § 629 odst. 1 OZ), přičemž otázka promlčitelnosti zdržovacího nároku při trvajícím jednání je výkladovou otázkou.“
 - [§ 19 — legisvakance](03-novely-ucinnost.md): „Delší legisvakance části druhé měla umožnit přípravu úřadu ochránce na novou antidiskriminační agendu.“
 
-**Syntéza — časová osa sporu.** (1) Rozhodná skutečnost a její datum (§ 12, § 19). (2) Mimosoudní fáze: stížnost u povinného subjektu, metodická pomoc ochránce, součinnost právnické osoby podle § 11 odst. 1, podnět kontrolnímu úřadu podle § 11 odst. 2. (3) Žaloba u soudu podle § 10 s případným zastoupením podle § 26 odst. 3 OSŘ. (4) Tvrzení a doložení skutečností, z nichž lze diskriminaci dovodit; poté přesun důkazního břemene, pokud kombinace důvodu a oblasti spadá pod § 133a odst. 1 OSŘ. (5) Rozhodnutí o zdržovacím, odstraňovacím a satisfakčním nároku, subsidiárně o peněžité náhradě. Zákon nestanoví zvláštní lhůty; uplatní se obecné promlčení.
+**Syntéza — časová osa sporu.** (1) Rozhodná skutečnost a její datum (§ 12, § 19). (2) Mimosoudní fáze: stížnost u povinného subjektu, metodická pomoc ochránce, součinnost právnické osoby podle § 11 odst. 1, podnět kontrolnímu úřadu podle § 11 odst. 2. (3) Žaloba u soudu podle § 10 s případným zastoupením podle § 26 odst. 3 OSŘ; ve služebním poměru nejprve ověření pravomoci soudu (u vojáků z povolání ji pro jiné nároky než náhradu škody potvrzuje karta NS 21 Cdo 5948/2017). (4) Tvrzení a doložení skutečností, z nichž lze diskriminaci dovodit; poté přesun důkazního břemene, pokud kombinace důvodu a oblasti spadá pod § 133a odst. 1 OSŘ. (5) Rozhodnutí o zdržovacím, odstraňovacím a satisfakčním nároku, subsidiárně o peněžité náhradě. Zákon nestanoví zvláštní lhůty; uplatní se obecné promlčení.
 
 **Hloubkový test.**
 - Sestavte časovou osu od iniciační skutečnosti přes mimosoudní kroky a žalobu až po rozhodnutí a opravný prostředek.
@@ -236,17 +237,18 @@ Následky a prostředky ochrany jsou soustředěny v [§ 10](02-pravni-prostredk
 Reprezentativní normativní vazby porušení a následku:
 - [§ 10 odst. 1 — místní znění](02-pravni-prostredky-prechodne.md): „Dojde-li k porušení práv a povinností vyplývajících z práva na rovné zacházení nebo k diskriminaci, má ten, kdo byl tímto jednáním dotčen, právo se u soudu zejména domáhat, aby bylo upuštěno od diskriminace, aby byly odstraněny následky diskriminačního zásahu a aby mu bylo dáno přiměřené zadostiučinění.“
 - [§ 10 odst. 2 — místní znění](02-pravni-prostredky-prechodne.md): „Pokud by se nejevilo postačujícím zjednání nápravy podle odstavce 1, zejména proto, že byla v důsledku diskriminace ve značné míře snížena dobrá pověst nebo důstojnost osoby nebo její vážnost ve společnosti, má též právo na náhradu nemajetkové újmy v penězích.“
-- [§ 10 — výše náhrady](02-pravni-prostredky-prechodne.md): „Zákon nestanoví horní ani dolní hranici.“ Majetková újma stojí mimo ADZ: „Majetková škoda se uplatňuje podle OZ.“
+- [§ 10 — výše náhrady](02-pravni-prostredky-prechodne.md): „Zákon nestanoví horní ani dolní hranici.“ Majetková újma stojí mimo ADZ: „Majetková škoda se uplatňuje podle OZ.“ Kapitola k tomu dodává: „To neplatí bez dalšího pro služební poměr vojáků z povolání: podle místní karty NS 21 Cdo 5948/2017 zakládá § 10 odst. 1 pravomoc soudu jen pro jiné nároky než náhradu škody (majetkové újmy).“
+- [§ 10 — místní karta NS 21 Cdo 3858/2020](judikatura/NS-21-Cdo-3858-2020.md) (*Judikatura*): „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon“
 - [§ 2 — jednotný následek forem](01-obecna-diskriminace-vyjimky.md): „Právní důsledek je jednotný — všechny formy zakládají nároky podle § 10.“
 - [§ 5 — porušení preventivní povinnosti](01-obecna-diskriminace-vyjimky.md): „Porušení povinnosti zajišťovat rovné zacházení je samo porušením práv vyplývajících z práva na rovné zacházení a zakládá nároky podle § 10“
 - [§ 11 — role právnických osob](02-pravni-prostredky-prechodne.md): „Neupravuje jejich vlastní žalobní legitimaci (zákon jim nesvěřuje právo podat žalobu vlastním jménem ve prospěch oběti ani ve veřejném zájmu); jejich role je informační, asistenční a iniciační.“
 - [§ 18 — povaha povinnosti státu](03-novely-ucinnost.md): „Jde o jednorázovou povinnost orgánu státní správy vůči orgánu Evropské unie; nezakládá práva ani povinnosti pojišťoven či pojistníků a není z něj možné dovozovat soukromoprávní nároky.“
 
-**Syntéza.** ADZ zakládá odstupňovaný soukromoprávní systém: zdržovací nárok, odstraňovací nárok, přiměřené (primárně nepeněžité) zadostiučinění a subsidiárně peněžitou náhradu nemajetkové újmy. Správní sankce, neplatnost právního jednání ani přestupková odpovědnost v ADZ upraveny nejsou; případný veřejnoprávní postih je třeba hledat ve zvláštních předpisech, na které ADZ odkazuje jen prostřednictvím kontrolních úřadů (§ 11 odst. 2). Přijetí do zaměstnání jako následek ADZ výslovně nezakládá.
+**Syntéza.** ADZ zakládá odstupňovaný systém soudní ochrany: zdržovací nárok, odstraňovací nárok, přiměřené (primárně nepeněžité) zadostiučinění a subsidiárně peněžitou náhradu nemajetkové újmy. Systém je převážně soukromoprávní, podle karty NS 21 Cdo 5948/2017 však dopadá i na služební poměr vojáků z povolání (s výjimkou nároku na náhradu škody). Správní sankce, neplatnost právního jednání ani přestupková odpovědnost v ADZ upraveny nejsou; případný veřejnoprávní postih je třeba hledat ve zvláštních předpisech, na které ADZ odkazuje jen prostřednictvím kontrolních úřadů (§ 11 odst. 2). Přijetí do zaměstnání jako následek ADZ výslovně nezakládá.
 
 **Hloubkový test.**
 - Spojte porušenou primární normu (§ 2 až § 9) se sekundárním nárokem (§ 10), aktivně legitimovanou fyzickou osobou, pasivně legitimovaným subjektem a promlčením.
-- Oddělte nepeněžitou nápravu, peněžitou náhradu nemajetkové újmy, náhradu majetkové škody podle OZ a případný veřejnoprávní postih podle zvláštních zákonů.
+- Oddělte nepeněžitou nápravu, peněžitou náhradu nemajetkové újmy, náhradu majetkové škody podle OZ a případný veřejnoprávní postih podle zvláštních zákonů; u služebních poměrů ověřte cestu k náhradě škody ve zvláštní úpravě (srov. kartu NS 21 Cdo 5948/2017).
 - U peněžité náhrady výslovně odůvodněte nedostatečnost nápravy podle odst. 1 a kritéria výše podle odst. 3.
 - Prověřte souběh s ochranou osobnosti podle OZ a důvod přednosti ADZ jako speciální úpravy.
 
@@ -255,16 +257,19 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani místní karty rozhodnutí; soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 citací spisových značek**. Komentář to uvádí výslovně:
-- [Úvod — metodická poznámka](00-uvod.md): „Repozitář neobsahuje místní judikaturní karty k tomuto zákonu; komentář proto neuvádí spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, unijní předlohu uvedenou v poznámkách pod čarou a navazující předpisy“
-- [Úvod — poznámka k metodě](00-uvod.md): „Komentář neobsahuje citace judikatury ani spisové značky; tam, kde by u předpisu stála judikatorní teze, je opora vyznačena jako dosud nedoložená z místních zdrojů.“
+Složka [judikatura/](judikatura/README.md) obsahuje **2 místní karty** rozhodnutí Nejvyššího soudu (kat. A), citované ve **3 blocích** kapitol: [NS 21 Cdo 5948/2017](judikatura/NS-21-Cdo-5948-2017.md) u § 1 ([kap. 1](01-obecna-diskriminace-vyjimky.md)) a u § 10 ([kap. 2](02-pravni-prostredky-prechodne.md)) a [NS 21 Cdo 3858/2020](judikatura/NS-21-Cdo-3858-2020.md) u § 10 ([kap. 2](02-pravni-prostredky-prechodne.md)). Obě karty zachycují jen kurátorskou právní větu, nikoli skutkový stav a odůvodnění. Zásada 9 v [ZASADY.md](ZASADY.md) na obě karty odkazuje.
 
-Místní korpus tedy neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. **Mezera:** složka `judikatura/` bude doplněna strojově později; do té doby jsou všechna tvrzení této mapy kategorie *Text*, *Syntéza* nebo *Otevřená otázka*, nikoli *Judikatura*.
+- [§ 10 — karta NS 21 Cdo 5948/2017](02-pravni-prostredky-prechodne.md): „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu“
+- [§ 10 — karta NS 21 Cdo 3858/2020](02-pravni-prostredky-prechodne.md): „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon“
 
-**Kontrolní priority pro budoucí karty.** Místní kapitoly označují otázky, u nichž bude judikatorní opora rozhodující: hranice nabídky veřejnosti (§ 1 odst. 1 písm. j)), diskriminace na základě vztahu (§ 2 odst. 5), jednorázový incident jako obtěžování (§ 4 odst. 1 písm. a)), práh peněžité náhrady ve vztahu k § 2951 odst. 2 OZ (§ 10 odst. 2), kritéria výše náhrady (§ 10 odst. 3), promlčení zdržovacího nároku a eurokonformní přesun důkazního břemene mimo text § 133a OSŘ.
+**Co z karet plyne (*Judikatura*).** (i) § 10 odst. 1 zakládá pravomoc soudu i ve věcech služebního poměru vojáků z povolání, tedy i tam, kde základní vztah není soukromoprávní; výjimkou je nárok na náhradu škody (majetkové újmy). K § 10 karta míří přímo, k § 1 jen nepřímo: kapitola 1 k tomu uvádí, že karta „ukazuje, že tato oblast nezahrnuje jen pracovní poměry podle zákoníku práce, ale i veřejnoprávní služební poměr, v němž na straně povinného stojí stát.“ (ii) Systém prostředků ochrany zaměstnance před nerovným zacházením je upraven v ADZ; karta míří přímo k § 10, ale jen co do zakotvení prostředků ochrany.
+
+**Hranice použitelnosti.** Karty neposkytují skutkový ani procesní kontext nad rámec právní věty. U karty NS 21 Cdo 3858/2020 kapitola výslovně upozorňuje, že z ní nelze určit, zda soud posuzoval nerovné zacházení spojené s chráněným důvodem: „tvrzení, že se zaměstnanec může podle § 10 bránit i nerovnosti, která s chráněným důvodem nesouvisí (srov. akcesorické pojetí rovného zacházení u § 2 v kap. 1), z karty bez četby plného textu dovozovat nelze.“ Karta NS 21 Cdo 5948/2017 se týká jen vojáků z povolání a neuvádí, kdo rozhoduje o náhradě škody. Časově: rozhodnutí z 24. 4. 2018 a z 30. 11. 2021 mohla aplikovat jiné znění než místní konsolidaci k 1. 1. 2018; rozhodné znění karty neuvádějí a je třeba je ověřit v plném textu.
+
+**Co karty neřeší.** Žádná z karet se nevyjadřuje k otázkám, které místní kapitoly označují jako výkladové; ty zůstávají kategorií *Text*, *Syntéza* nebo *Otevřená otázka*. Judikatorní opora bude rozhodující zejména u těchto otázek: hranice nabídky veřejnosti (§ 1 odst. 1 písm. j)), diskriminace na základě vztahu (§ 2 odst. 5), jednorázový incident jako obtěžování (§ 4 odst. 1 písm. a)), práh peněžité náhrady ve vztahu k § 2951 odst. 2 OZ (§ 10 odst. 2), kritéria výše náhrady (§ 10 odst. 3), promlčení zdržovacího nároku a eurokonformní přesun důkazního břemene mimo text § 133a OSŘ.
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U obou místních karet i u každého dalšího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; u stávajících karet, které obsahují jen právní větu, to vyžaduje četbu plného textu.
 - Ověřte, zda soud vykládal stejné znění ADZ (konsolidace, novely) a stejný právní problém, a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
@@ -295,11 +300,11 @@ Místní kapitoly výslovně označují nejméně **22 výskytů výkladové ot�
 | [§ 14](03-novely-ucinnost.md) | přesun břemene mimo text § 133a OSŘ | „Zda lze v těchto případech dovodit přesun důkazního břemene výkladem konformním s unijním právem, nebo se uplatní obecná pravidla o důkazním břemeni, je výkladovou otázkou.“ |
 | [§ 18](03-novely-ucinnost.md) | odkaz na nahrazený zákon o pojišťovnictví | „nebo zda se tím povinnost podle § 18 stala neproveditelnou, je výkladovou otázkou“ |
 
-**Syntéza.** Nejsilnější konkurenční výklady se soustřeďují do dvou os: (i) šíře ochrany (asociace, svědci, eurokonformní přesun břemene) proti textové uzavřenosti zákona a (ii) míra nápravy (práh peněžité náhrady, přijetí do zaměstnání) proti autonomii povinného subjektu. Místní korpus u žádné z nich nenabízí judikatorní rozhodnutí; varianty je proto nutné zachovat.
+**Syntéza.** Nejsilnější konkurenční výklady se soustřeďují do dvou os: (i) šíře ochrany (asociace, svědci, eurokonformní přesun břemene) proti textové uzavřenosti zákona a (ii) míra nápravy (práh peněžité náhrady, přijetí do zaměstnání) proti autonomii povinného subjektu. Místní korpus u žádné z nich nenabízí judikatorní rozhodnutí — dvě místní karty se týkají pravomoci soudu ve služebním poměru vojáků z povolání a zakotvení prostředků ochrany zaměstnance v ADZ, nikoli otázek tohoto katalogu; varianty je proto nutné zachovat.
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický, účelový a eurokonformní argument; judikatorní argument doplňte až po vzniku místních karet.
+- U každé varianty uveďte textový, systematický, historický, účelový a eurokonformní argument; judikatorní argument použijte jen tam, kde místní karta otázku skutečně řeší (stávající dvě karty otázky tohoto katalogu neřeší).
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -370,7 +375,7 @@ Aplikační vrstvu lze ověřit zejména v:
 Stav poznání je posuzován nad **4 soubory kapitol** (úvod a tři věcné kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura chybí; složka `judikatura/` bude doplněna strojově později a soubor zásad zatím nemá citovatelnou judikatorní tezi;
+- místní judikatura je omezena na 2 karty NS (21 Cdo 5948/2017, 21 Cdo 3858/2020) s pouhou právní větou bez skutkového stavu a odůvodnění; v souboru zásad na ně odkazuje jen zásada 9, ostatní zásady judikatorní tezi nemají;
 - místní důvodová zpráva k ADZ není součástí repozitáře, historický argument proto stojí jen na textu a poznámkách pod čarou;
 - části čtvrtá a pátá a § 15 a § 16 nejsou v místní konsolidaci a nejsou komentovány;
 - místní konsolidace je účinná od 1. 1. 2018; pozdější změny ADZ místně ověřeny nejsou;
@@ -391,14 +396,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | ano | ano | jen mezera | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — § 1 až § 9](01-obecna-diskriminace-vyjimky.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2 — § 10 až § 12](02-pravni-prostredky-prechodne.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | ano | ano | ano (přehled 2 karet) | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — § 1 až § 9](01-obecna-diskriminace-vyjimky.md) | ano | ano | ano | ano (§ 1: 1 karta) | ano | ano | ano | ano |
+| [Kapitola 2 — § 10 až § 12](02-pravni-prostredky-prechodne.md) | ano | ano | ano | ano (§ 10: 2 karty) | ano | ano | ano | ano |
 | [Kapitola 3 — § 13, § 14, § 17 až § 19](03-novely-ucinnost.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál rozhodnutí nebyl nalezen v žádné ze 4 kapitol; úvod mezeru výslovně přiznává. Po strojovém doplnění složky `judikatura/` je nutné revidovat vrstvy 9 a 10 a zásady.
+- **Judikatura:** místní karty jsou citovány v kapitole 1 (§ 1) a v kapitole 2 (§ 10), každá s odstavcem o dosahu a hranicích; kapitola 3 judikaturu neobsahuje. Vrstvy 9 a 10 a zásada 9 byly podle obou karet revidovány; při doplnění dalších karet je revizi nutné zopakovat.
 - **Pojmy:** kapitola 3 pracuje převážně s novelizačními body; pojmy pojišťovacího práva (pojistně matematické údaje, přiměřenost rozdílu) nejsou samostatně definovány.
 - **Aplikace:** úvod neobsahuje modelový případ, což odpovídá jeho přehledové funkci.
 

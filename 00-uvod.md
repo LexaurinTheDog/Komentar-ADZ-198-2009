@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2018** (dokument e-Sbírky `SB-2009-00198_2018-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místně dostupná konsolidace antidiskriminačního zákona (dále „**ADZ**“) je účinná od 1. 1. 2018; pozdější změny, pokud k nim došlo, je třeba ověřit v aktuálním znění. Části čtvrtá a pátá a § 15 a § 16 nejsou v místně dostupné konsolidaci obsaženy, a proto nejsou komentovány. Repozitář neobsahuje místní judikaturní karty k tomuto zákonu; komentář proto neuvádí spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, unijní předlohu uvedenou v poznámkách pod čarou a navazující předpisy (zákoník práce, občanský soudní řád, občanský zákoník, zákon o Veřejném ochránci práv, zákon o pojišťovnictví) v jejich místně dostupném znění. Novelizační části (§ 13, § 14, § 17 a § 18) jsou aplikací vyčerpány a jejich dnešní obsah je třeba hledat v novelizovaných předpisech.
+> **Metodická poznámka:** Místně dostupná konsolidace antidiskriminačního zákona (dále „**ADZ**“) je účinná od 1. 1. 2018; pozdější změny, pokud k nim došlo, je třeba ověřit v aktuálním znění. Části čtvrtá a pátá a § 15 a § 16 nejsou v místně dostupné konsolidaci obsaženy, a proto nejsou komentovány. Repozitář obsahuje dvě místní judikaturní karty k tomuto zákonu (složka [judikatura/](judikatura/README.md)): NS 21 Cdo 5948/2017, citovanou u § 1 a § 10, a NS 21 Cdo 3858/2020, citovanou u § 10; obě zachycují jen kurátorskou právní větu, nikoli skutkový stav a odůvodnění. Mimo tyto dvě karty komentář spisové značky soudních rozhodnutí neuvádí a výklad opírá o text zákona, jeho systematiku, unijní předlohu uvedenou v poznámkách pod čarou a navazující předpisy (zákoník práce, občanský soudní řád, občanský zákoník, zákon o Veřejném ochránci práv, zákon o pojišťovnictví) v jejich místně dostupném znění. Novelizační části (§ 13, § 14, § 17 a § 18) jsou aplikací vyčerpány a jejich dnešní obsah je třeba hledat v novelizovaných předpisech.
 
 ---
 
@@ -38,7 +38,7 @@ Výjimky upravují § 6 a 7 a pro systémy sociálního zabezpečení pracovník
 
 ## Právní prostředky ochrany
 
-Ústředním nárokovým ustanovením je **§ 10**: dotčená osoba se může u soudu domáhat zejména upuštění od diskriminace, odstranění následků diskriminačního zásahu a přiměřeného zadostiučinění, a subsidiárně — nepostačuje-li taková náprava — **náhrady nemajetkové újmy v penězích**, jejíž výši určí soud podle závažnosti újmy a okolností porušení. § 11 přiznává vymezeným právnickým osobám informační, asistenční a iniciační roli (informace o právní pomoci, součinnost při sepisování podání, podněty kontrolním úřadům), nikoli však vlastní žalobní legitimaci. Procesním doplňkem je přesun důkazního břemene podle § 133a občanského soudního řádu v podobě zavedené § 14 ADZ.
+Ústředním nárokovým ustanovením je **§ 10**: dotčená osoba se může u soudu domáhat zejména upuštění od diskriminace, odstranění následků diskriminačního zásahu a přiměřeného zadostiučinění, a subsidiárně — nepostačuje-li taková náprava — **náhrady nemajetkové újmy v penězích**, jejíž výši určí soud podle závažnosti újmy a okolností porušení. § 11 přiznává vymezeným právnickým osobám informační, asistenční a iniciační roli (informace o právní pomoci, součinnost při sepisování podání, podněty kontrolním úřadům), nikoli však vlastní žalobní legitimaci. Procesním doplňkem je přesun důkazního břemene podle § 133a občanského soudního řádu v podobě zavedené § 14 ADZ. Z místních karet plyne, že § 10 odst. 1 zakládá pravomoc soudu i ve věcech služebního poměru vojáků z povolání, uplatňuje-li voják jiný nárok než náhradu škody (majetkové újmy) (NS 21 Cdo 5948/2017), a že právní prostředky ochrany zaměstnance před nerovným zacházením upravuje ADZ (NS 21 Cdo 3858/2020). Hranice obou závěrů (jen právní věta, okruh osob, rozhodné znění) vysvětlují odstavce připojené ke kartám v kapitolách 1 a 2.
 
 ## Vazby na jiné předpisy
 
@@ -66,12 +66,12 @@ Komentované znění obsahuje **17 paragrafových jednotek** (§ 1 až § 14 a �
 | [02](02-pravni-prostredky-prechodne.md) | **Právní prostředky ochrany před diskriminací** — nároky dotčené osoby, náhrada nemajetkové újmy, role právnických osob; přechodné ustanovení | § 10–12 |
 | [03](03-novely-ucinnost.md) | **Novely a účinnost** — změna zákona o Veřejném ochránci práv, občanského soudního řádu a zákona o pojišťovnictví, přechodné ustanovení k pojišťovnictví, účinnost | § 13, 14, 17–19 |
 
-Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitol) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa normativních modalit zákona).
+Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitol) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa normativních modalit zákona); místní judikaturní karty jsou ve složce [judikatura/](judikatura/README.md).
 
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr s kontrolním checklistem a přehledem typicky rozhodných důkazů.
-- Kde text zákona nedává jednoznačnou odpověď, komentář to výslovně označuje jako **výkladovou otázku** a nepředstírá ustálenou praxi. Komentář neobsahuje citace judikatury ani spisové značky; tam, kde by u předpisu stála judikatorní teze, je opora vyznačena jako dosud nedoložená z místních zdrojů.
+- Kde text zákona nedává jednoznačnou odpověď, komentář to výslovně označuje jako **výkladovou otázku** a nepředstírá ustálenou praxi. Judikatura je citována jen z místních karet: u § 1 a § 10 jsou uvedeny právní věty dvou rozhodnutí Nejvyššího soudu (21 Cdo 5948/2017 a 21 Cdo 3858/2020) a ke každému bloku je připojen odstavec, který vysvětluje, co z karty pro dané ustanovení plyne, zda k němu míří přímo, nebo nepřímo, a kde jsou hranice závěru. U ostatních ustanovení a u otázek, které karty neřeší, je judikatorní opora vyznačena jako dosud nedoložená z místních zdrojů.
 - U novelizačních ustanovení komentář vždy rozlišuje znění vložené ADZ k okamžiku novely a dnešní úpravu v novelizovaném předpisu podle místně dostupného znění.
 
 ---
