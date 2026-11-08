@@ -42,6 +42,11 @@ Pro aplikaci je rozhodující strukturovaný test, který z hlavy I vyplývá: (
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5948/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51BA76E4527F7933C12582C5003144F3?openDocument) — 24. 4. 2018, kat. A
+  > „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu"
+
 #### Transpoziční a ústavní základ (odst. 1, úvodní část)
 
 Zákon výslovně deklaruje, že zapracovává předpisy EU uvedené v poznámce pod čarou č. 1 (směrnice 2000/43/ES o rasové rovnosti, 2000/78/ES o obecném rámci v zaměstnání, 79/7/EHS a 86/378/EHS o rovném zacházení pro muže a ženy v sociálním zabezpečení, 2004/113/ES o přístupu ke zboží a službám, 2006/54/ES o rovných příležitostech v zaměstnání, 2010/41/EU o osobách samostatně výdělečně činných a 2014/54/EU o volném pohybu pracovníků) a navazuje na přímo použitelné nařízení (EU) č. 492/2011 o volném pohybu pracovníků (pozn. č. 3). Upozornění: směrnice 86/378/EHS je v poznámce uvedena historicky — její obsah byl převzat přepracovanou směrnicí 2006/54/ES, která je v témže výčtu rovněž uvedena; pro výklad § 8 a 9 je proto třeba vycházet především z ní. Poznámky pod čarou nejsou normativní, slouží však jako vodítko pro eurokonformní výklad.

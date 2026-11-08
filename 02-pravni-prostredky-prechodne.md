@@ -38,6 +38,13 @@ Nároky lze kumulovat. Slovo „zejména" otevírá prostor i pro další nárok
 
 **Procesní souvislosti.** Ve vymezených věcech se uplatní přesun důkazního břemene podle § 133a odst. 1 OSŘ: uvede-li žalobce skutečnosti, z nichž lze dovodit přímou nebo nepřímou diskriminaci, musí žalovaný dokázat, že k porušení zásady rovného zacházení nedošlo. Účastník se může dát zastoupit i právnickou osobou podle § 26 odst. 3 OSŘ. Vztah k ochraně osobnosti: nároky podle § 10 ADZ se překrývají s nároky podle § 82 OZ (upuštění od neoprávněného zásahu, odstranění následku); u diskriminace se uplatní ADZ jako úprava speciální. Promlčení nároků ADZ výslovně neupravuje; použije se obecná úprava OZ (obecná promlčecí lhůta tří let podle § 629 odst. 1 OZ), přičemž otázka promlčitelnosti zdržovacího nároku při trvajícím jednání je výkladovou otázkou.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3858/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE68DDE9E7EECBEEC12587F2001B89DE?openDocument) — 30. 11. 2021, kat. A
+  > „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon"
+- *NS* [21 Cdo 5948/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51BA76E4527F7933C12582C5003144F3?openDocument) — 24. 4. 2018, kat. A
+  > „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Uchazečka o místo účetní (54 let) absolvuje pohovor; personalista jí sdělí, že „hledají někoho mladšího do dynamického týmu", a místo obsadí výrazně méně kvalifikovaný uchazeč (29 let). Inzerát firmy na pracovním portálu nadále uvádí „ideální věk 25–35 let". Uchazečka žádá omluvu, odstranění inzerátu a peněžitou náhradu; uvádí, že se o odmítnutí dozvěděli i její bývalí kolegové v oboru a cítí se ponížena. Důkazy: inzerát (snímek obrazovky), e-mail personalisty, svědectví další uchazečky, životopisy obou kandidátů.
